@@ -11,6 +11,7 @@
     "extract": "i18next-parser --config i18n-parser.config.js"
   },
   "dependencies": {
+    "@expo/metro-runtime": "^6.1.2",
     "@expo/react-native-action-sheet": "^4.0.1",
     "@expo/vector-icons": "^13.0.0",
     "@gorhom/bottom-sheet": "^4.6.1",
@@ -89,6 +90,7 @@
     "react-native-theme-switch-animation": "^0.6.0",
     "react-native-vector-icons": "^10.0.3",
     "react-native-view-shot": "3.7.0",
+    "react-native-web": "^0.21.2",
     "react-native-webrtc": "^118.0.2",
     "react-native-webview": "13.2.2",
     "recoil": "^0.7.7",
